@@ -1,4 +1,4 @@
-![logo](https://github.com/bhoomi623/Bhoomi-Swarnkar/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+![logo](https://github.com/bhoomi623/bhoomi623/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Bhoomi Swarnkar</h1>
 <h3 align="center">Advancing Technology with Expertise in AI/ML and Software Development</h3>
 
